@@ -10,6 +10,3 @@ class Teacher < Person
     true
   end
 end
-
-# teacher = Teacher.new('Math')
-# puts teacher.can_use_services?
