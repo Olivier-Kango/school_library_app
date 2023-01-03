@@ -21,5 +21,3 @@ class Person
     end
   end
 end
-
-person = Person.new('Olivier', 15, true)
