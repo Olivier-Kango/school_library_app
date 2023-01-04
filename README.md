@@ -53,6 +53,26 @@
   </ul>
 </details>
 
+<!-- Features -->
+
+### Key Features <a id="key-features"></a>
+
+- **User Can capitalizes the output of @nameable.correct_name**
+- **user Can make the output of @nameable.correct_name has a maximum of 10 characters**
+- **User Can check if He managed to decorate his person**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a id="live-demo"></a>
+
+> There is no live demo for this project
+
+- [Live Demo Link](https://)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a id="getting-started"></a>
@@ -79,6 +99,34 @@ Clone this repository to your desired folder:
       
    ```
 
+### Install
+
+Install Ruby in your computer:
+
+follow the [documentation](https://www.ruby-lang.org/en/documentation/installation/) to install all the necessary dependencies
+
+--->
+
+### Usage
+
+To print the project, execute the following command:
+
+### `ruby file_name.rb`
+- This will display the puts in your terminal 
+
+### Run tests
+
+To run tests, run the following command:
+
+### `npm run test`
+--->
+
+### Deployment
+
+I have not deployed this project
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a id="authors"></a>
@@ -93,6 +141,18 @@ Clone this repository to your desired folder:
 - LinkedIn: [@Olivier_linkedIn](https://www.linkedin.com/in/olivier-kango-b990601b8/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a id="future-features"></a>
+
+- **I will set up associations.**
+- **I will add basic UI**
+- **I will make a video to explain what I did**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTRIBUTING -->
 
@@ -109,6 +169,16 @@ Feel free to check the [issues page](https://github.com/Olivier-Kango/morse_code
 ## ⭐️ Show your support <a id="support"></a>
 
 > Give a ⭐ if you like this project!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a id="acknowledgements"></a>
+
+I would like to thank:
+
+- Theophile Kango and My cording partners.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
