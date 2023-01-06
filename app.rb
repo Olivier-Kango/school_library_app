@@ -45,7 +45,7 @@ class App
   # Print out all people
   def list_all_people
     if @people.empty?
-      puts "Please insert people first !!"
+      puts 'Please insert people first !!'
     else
       @people.each do |person|
         puts "[#{person.class}] Name: #{person.name}, ID: #{person.id}, Age: #{person.age}"
@@ -99,7 +99,7 @@ class App
     case gets.chomp
     when '1'
       create_student
-    
+
     when '2'
       create_teacher
     end
@@ -157,13 +157,13 @@ class App
     # Print the rentals for that person
     if person_arr.empty?
       puts 'No person matches the given ID!!'
-    else 
+    else
       person_arr[0].rentals.each do |rental|
         puts "Date: #{rental.date}, Book #{rental.book.title} by #{rental.book.author}"
       end
     end
   end
- 
+
   def choose_option(input)
     case input
     when '1' then list_all_books
