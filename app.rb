@@ -36,7 +36,7 @@ class App
       puts 'Please insert books first!!'
     else
       @books.each_with_index do |book, index|
-        puts "#{index}) Title: #{book.title}, Author: #{book.author}}"
+        puts "#{index}) Title: #{book.title}, Author: #{book.author}"
       end
     end
   end
@@ -179,6 +179,7 @@ class App
     input = gets.chomp
 
     if input == '7'
+      puts 'Thank you for using this app!'
       exit
     else
       choose_option(input)
