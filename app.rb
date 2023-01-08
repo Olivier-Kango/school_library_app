@@ -20,7 +20,7 @@ class App
     @books = []
 
     # List of people
-    @people = []
+    @people
   end
 
   # display commands
